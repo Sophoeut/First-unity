@@ -1,2 +1,2 @@
 # First-unity
-Learn Game developer with Unity
+Learn Game 3D development with Unity 
